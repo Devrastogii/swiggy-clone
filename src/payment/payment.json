@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name": "Amazon Pay",
+        "image":"https://ibsintelligence.com/wp-content/uploads/2020/01/AmazonPayLogo-543.jpg"
+    },
+    {
+        "id":2,
+        "name": "Paytm",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXJddjSMuhCPNBwd2Ew7i16_VkDDr_M35vA&usqp=CAU"
+    },
+    {
+        "id":3,
+        "name": "PhonePe (Wallet/UPI/Cards)",
+        "image":"https://play-lh.googleusercontent.com/6iyA2zVz5PyyMjK5SIxdUhrb7oh9cYVXJ93q6DZkmx07Er1o90PXYeo6mzL4VC2Gj9s"
+    },
+    {
+        "id":4,
+        "name": "MobiKwik",
+        "image":"https://static.businessworld.in/article/article_extra_large_image/1662100282_rMlg77_mobikwik.jpg"
+    },
+    {
+        "id":5,
+        "name": "Freecharge",
+        "image":"https://cdn.gadgets360.com/pricee/assets/store/freecharge-1200x800.png"
+    }
+]

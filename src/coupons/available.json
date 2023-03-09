@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "WELCOME50",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/rng/md/ads/production/vomm1f50eucaq7dopxpx",
+        "line": "Get 50% off",
+        "description": "Use code WELCOME50 & get 50% off on your 1st order above ₹149. Maximum discount: ₹100.",
+        "terms" : ["Minimum order value of ₹149", "Maximum discount of ₹100", "Offer valid in select cities", "Offer valid on selected restaurants", "Coupon code can be applied only once per user", "Offer valid till Jan 31, 2023 11:59 PM"]
+    },
+    {
+        "id": 2,
+        "name": "KOTAK125",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/rng/md/ads/production/8d4b14ebc1b9f8256b51d900f3d4ec14",
+        "line": "Get 20% discount using Kotak Bank Cards",
+        "description": "Maximum discount up to ₹125 on orders above ₹500",
+        "terms" : ["Valid only on Thursdays", "Applicable twice per user per month", "Valid only on Kotak Credit & Debit Cards", "Other T&Cs may apply", "Offer valid till Jan 26, 2023 11:59 PM"]
+    },
+    {
+        "id": 3,
+        "name": "PAYTMFEST",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/rng/md/ads/production/e9a0c789802340154685cb92bb645086",
+        "line": "Get assured cashback between ₹25 to ₹100 using Paytm wallet",
+        "description": "Assured cashback between ₹25 to ₹100 on Paytm wallet transactions above ₹399",
+        "terms" : ["Applicable thrice per user during the campaign", "Valid on the net transaction amount of ₹399 using the Paytm wallet", "Cashback will be available in the form of a scratch card to your Paytm account within 24 hours", "Avail Cashback through a scratch card on your Paytm app in the Cashback & Offers section within 7 days.", "Other T&Cs may apply", "Offer valid till Jan 31, 2023 11:59 PM"]
+    },
+    {
+        "id": 4,
+        "name": "FEDERALCC",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_40,h_40/rng/md/ads/production/e3d4c7c77e7c51dceaf1198f16e195bb",
+        "line": "Get 20% discount using Federal Bank Credit Cards",
+        "description": "Maximum discount up to ₹120 on orders above ₹249",
+        "terms" : ["Applicable once per user per week", "Valid only from Monday to Thursday", "Valid only on Federal Bank Credit Cards", "Other T&Cs may apply", "Offer valid till Jan 31, 2023 11:59 PM"]
+    }
+]
